@@ -1,5 +1,5 @@
 # Data-Professionals-Survey
-Data Professionals Survey using PowerBI
+Data Professionals Survey using Power BI
 
 ![image](https://github.com/poojapatel37/Data-Professionals-Survey/assets/131294033/fab0cd52-d19c-4503-a30b-0b8ab40cf6af)
 
@@ -8,7 +8,7 @@ Data Professionals Survey using PowerBI
 Excel file : Power BI - Final Project
 
 ## Tools
-PowerBI
+Power BI
 
 ## Data Cleaning/Preparation
 - Eliminated unnecessary columns with empty content.
